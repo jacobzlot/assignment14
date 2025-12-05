@@ -61,4 +61,4 @@ http.createServer(function (req, res) {
 
         doSearch();
     }
-}).listen(8080);
+}).listen(process.env.PORT || 8080);
