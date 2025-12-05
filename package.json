@@ -4,6 +4,7 @@
   "description": "",
   "main": "part2.js",
   "scripts": {
+    "start": "node part2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
